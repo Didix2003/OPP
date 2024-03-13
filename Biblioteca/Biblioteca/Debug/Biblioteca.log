@@ -1,0 +1,6 @@
+﻿  Biblioteca.cpp
+  Service.cpp
+c:\users\dydyp\source\repos\biblioteca\biblioteca\service.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\dydyp\source\repos\biblioteca\biblioteca\service.cpp(70): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Biblioteca.vcxproj -> C:\Users\dydyp\Source\Repos\Biblioteca\Debug\Biblioteca.exe

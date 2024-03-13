@@ -1,0 +1,5 @@
+orice_cod 2000 orice_nume 10
+orice_cod2 2000 orice_nume2 10
+orice_cod 200 orice_nume 10
+orice_cod 2000 orice_nume 10
+orice_cod2 2000 orice_nume2 10
