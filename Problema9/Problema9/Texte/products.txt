@@ -1,0 +1,4 @@
+1 ciocolata 7
+2 paine 6
+1 2 2
+1 1 1
